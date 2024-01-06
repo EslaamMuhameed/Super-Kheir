@@ -18,7 +18,16 @@ flutter run
 - [Flutter](https://flutter.dev) - Flutter Official website
 
 - [Demo link on youtube](https://youtu.be/oBv5Jz1dQkc?si=dVHcxJHlVA7VBn86)
-- ![IMAGE_DESCRIPTION](https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.14.22.jpg)
+- <div class="row">
+ 
+    <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.14.22.jpg" align="left" height=30% width=31%/>
+
+    <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.14.22.jpg" align="center" height=30% width=31%/>
+  
+    <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.14.22.jpg" align="right" height=30% width=31%/>
+ 
+</div>
+
 
 
 
