@@ -30,7 +30,7 @@ flutter run
       
     <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.15.00.jpg" align="left" height=30% width=31%/>
      
-     <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.15.18.jpg" align="left" height=30% width=31%/>
+     <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.15.18.jpg" align="left" height=30% width=30%/>
 
    </div>
 
