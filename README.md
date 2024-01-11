@@ -21,9 +21,9 @@ flutter run
 - <div class="row">
     <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_24-01-06_18-14-09-956.jpg" align="left" height=30% width=25%/>
 
-    <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.14.22.jpg" align="center" height=30% width=25%/>
+    <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.14.22.jpg" align="left" height=30% width=25%/>
   
-    <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.14.38.jpg" align="right" height=30% width=25%/>
+    <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.14.38.jpg" align="left" height=30% width=25%/>
   </div>
   - <div class="row">
     <img src="https://github.com/EslaamMuhameed/Super-Kheir/blob/main/assets/PicsArt_01-06-06.15.33.jpg" align="left" height=30% width=25%/>
